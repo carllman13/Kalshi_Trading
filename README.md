@@ -17,3 +17,5 @@ FedCurve contains all functions.
 Main_script is where you will call the functions (some example parameters have been written)
 User is for setting username/pw/other default parameters.
 
+Youtube Walkthrough Link:
+https://www.youtube.com/watch?v=KlFJZmmZLrA&t=533s
