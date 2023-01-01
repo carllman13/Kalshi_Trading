@@ -12,8 +12,8 @@ Everyday since the price of the contracts for each meeting changes, my curve cha
 This package allows you to visualize how the curve has changed over time and allows you to easily compare curves.
 
 Instructions:
-There are 3 files, Main_script, FedCurve, User. Each has an .ipynb and .py version. I prefer to run the ipynb and save changes to py. 
+  There are 3 files, Main_script, FedCurve, User. Each has an .ipynb and .py version. I prefer to run the ipynb and save changes to py. 
 FedCurve contains all functions.
-Main_script is where you will call the functions (some example parameters have been written)
+  Main_script is where you will call the functions (some example parameters have been written)
 User is for setting username/pw/other default parameters.
 
